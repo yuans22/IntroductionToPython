@@ -128,7 +128,7 @@ RT.left(135)
 RT.forward(130)
 ########################################################################
 #
-# DONE: 5.
+# DON: 5.
 #   Run one more time to be sure that all is still OK.
 #   Ensure that no blue bars on the scrollbar-thing to the right remain.
 #
